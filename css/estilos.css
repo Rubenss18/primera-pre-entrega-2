@@ -38,7 +38,7 @@ body{
     height:100%;
 }
 .colorNav{
-    background-color: #d82222c0;
+    background-color: #d82222b2;
 }
 .nav-link{
     font-size: 1.2rem;
@@ -197,7 +197,7 @@ textarea{
 .col-img {
     background-position: center;
     background-size: cover;
-    background-image: url("../assets/img/SALSA\ contacto.jpeg"); 
+    background-image: url("../assets/img/SALSA\ 1.jpeg"); 
 }
 
 .titulo {
@@ -215,6 +215,8 @@ textarea{
     font-size: 1rem;
     line-height: 1.5;
 }
+
+
 
 /*cuando es un celular */
 @media screen and (max-width: 768px){
@@ -294,3 +296,7 @@ textarea{
 
 }
 
+.copy{
+    text-align: center;
+    margin: bottom 3px !important;
+}
